@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallBuilder", "SmallBuilder\SmallBuilder.csproj", "{1B5BC230-B01E-4192-B818-727AD7FA4C51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallBuilder.ViewModels", "SmallBuilder.ViewModels\SmallBuilder.ViewModels.csproj", "{A91703F8-7FA3-467B-A109-54C6066C7828}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{1B5BC230-B01E-4192-B818-727AD7FA4C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B5BC230-B01E-4192-B818-727AD7FA4C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B5BC230-B01E-4192-B818-727AD7FA4C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91703F8-7FA3-467B-A109-54C6066C7828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91703F8-7FA3-467B-A109-54C6066C7828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91703F8-7FA3-467B-A109-54C6066C7828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91703F8-7FA3-467B-A109-54C6066C7828}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
